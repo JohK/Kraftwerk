@@ -1,0 +1,9 @@
+name: Kraftwerk
+channels:
+  - cantera
+  - cantera/label/dev
+dependencies:
+  - cantera
+  - matplotlib
+  - pandas
+  - numpy
