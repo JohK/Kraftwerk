@@ -2,8 +2,11 @@ name: Kraftwerk
 channels:
   - cantera
   - cantera/label/dev
+  - coolprop
+  - coolprop/label/dev
 dependencies:
   - cantera
+  - coolprop
   - matplotlib
   - pandas
   - numpy
